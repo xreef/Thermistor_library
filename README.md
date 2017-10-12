@@ -11,7 +11,7 @@ All test is doing with MF58 10k Thermistor with B: 3950.
 
 ##Thermistor connection schema
 Vcc on thermistor
-![Vcc on thermistor](https://github.com/xreef/DHT12_sensor_library/blob/master/examples/ArduinoI2C/ArduinoI2CDHT12.png)
+![Vcc on thermistor](https://github.com/xreef/Thermistor_library/blob/master/examples/base/connectionDiagramVccToThermistor.png)
 
 Vcc on resistor
-![Vcc on resistor](https://github.com/xreef/DHT12_sensor_library/blob/master/examples/ArduinoI2C/ArduinoI2CDHT12.png)
+![Vcc on resistor](https://github.com/xreef/Thermistor_library/blob/master/examples/base/connectionDiagramVccToResistance.png)
