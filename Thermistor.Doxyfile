@@ -32,7 +32,7 @@ DOXYFILE_ENCODING = UTF-8
 # title of most generated pages and in a few other places.
 # The default value is: My Project.
 
-PROJECT_NAME = Thermistor library
+PROJECT_NAME = Thermistor_library
 
 # The PROJECT_NUMBER tag can be used to enter a project or revision number. This
 # could be handy for archiving the generated documentation or if some version
@@ -443,7 +443,7 @@ EXTRACT_PACKAGE = NO
 # included in the documentation.
 # The default value is: NO.
 
-EXTRACT_STATIC = YES
+EXTRACT_STATIC = NO
 
 # If the EXTRACT_LOCAL_CLASSES tag is set to YES, classes (and structs) defined
 # locally in source files will be included in the documentation. If set to NO,
@@ -1613,7 +1613,7 @@ EXTRA_SEARCH_MAPPINGS =
 # If the GENERATE_LATEX tag is set to YES, doxygen will generate LaTeX output.
 # The default value is: YES.
 
-GENERATE_LATEX = YES
+GENERATE_LATEX = NO
 
 # The LATEX_OUTPUT tag is used to specify where the LaTeX docs will be put. If a
 # relative path is entered the value of OUTPUT_DIRECTORY will be put in front of
