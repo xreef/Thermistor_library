@@ -14,7 +14,7 @@
 #endif
 
 // Uncomment to enable printing out nice debug messages.
-#define THERMISTORE_DEBUG
+// #define THERMISTORE_DEBUG
 
 // Define where debug output will be printed.
 #define DEBUG_PRINTER Serial
