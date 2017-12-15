@@ -12,7 +12,7 @@ Thermistor	KEYWORD1
 # Methods and Functions (KEYWORD2)
 ###########################################
 
-readTemperature KEYWORD2
-convertCtoF KEYWORD2
-convertFtoC KEYWORD2
+readTemperature	KEYWORD2
+convertCtoF	KEYWORD2
+convertFtoC	KEYWORD2
 
